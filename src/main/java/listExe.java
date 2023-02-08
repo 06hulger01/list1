@@ -34,6 +34,7 @@ public class listExe {
             if(str.equalsIgnoreCase(reverse)&&!(newList.contains(str))){
                 newList.add(str);
                 System.out.print(str+" ");
+                System.out.println("------------------");
             }
         }
     }
