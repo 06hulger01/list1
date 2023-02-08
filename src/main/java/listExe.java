@@ -35,6 +35,7 @@ public class listExe {
                 newList.add(str);
                 System.out.print(str+" ");
                 System.out.println("------------------");
+                System.out.println("-------------");
             }
         }
     }
